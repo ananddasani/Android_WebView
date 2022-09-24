@@ -1,6 +1,8 @@
 # Android_WebView
 Converting Website into Android App
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### 1st Activity 
@@ -35,6 +37,6 @@ webView = findViewById(R.id.webView);
 
 # App Highlight
 
-<img src="app_images/WebView Code.png" /><br>
+![WebView App](https://user-images.githubusercontent.com/74413402/192093198-b1382fbd-c1c5-44c1-a230-92a0434c554c.png)
+![WebView Code](https://user-images.githubusercontent.com/74413402/192093202-3c48b69a-e3f3-4cb0-abd5-1d4d7e5e973e.png)
 
-<img src="app_images/WebView App.png" width="300" /> <img src="app_images/Enable_Disable Button App2.png" width="300" /><br>
